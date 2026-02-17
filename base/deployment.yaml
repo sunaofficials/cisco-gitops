@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: demo
-        image: santanu/demo:latest
+        image: sunaodisha/demo:ea0593b2553ea5fc352221332754bcaa5a086fe0
         ports:
         - containerPort: 80
