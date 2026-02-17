@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: demo
-        image: sunaodisha/demo:ea0593b2553ea5fc352221332754bcaa5a086fe0
+        image: sunaodisha/demo:e7ffea790de790a740be9216057dbeb4426ce43e
         ports:
         - containerPort: 80
